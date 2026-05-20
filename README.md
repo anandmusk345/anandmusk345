@@ -8,16 +8,27 @@
 <div align="left">
 <h2>Languages and Tools</h2>
 
+<p<h2>Languages and Tools</h2>
+
 <p align="left">
+  <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
        height="40"
-      
+       alt="Python Programming Language" />
+
   <img width="12" />
 
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="C Programming Language" />
+  <!-- C Language -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+       height="40"
        alt="C Programming Language" />
-</p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" />
+
+  <img width="12" />
+
+  <!-- VS Code -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"
+       height="40"
+       alt="VS Code" />
 </p>
 
 ###
