@@ -8,9 +8,6 @@
 <div align="left">
 <h2>Languages and Tools</h2>
 
-<p<h2>Languages and Tools</h2>
-
-<h2>Languages and Tools</h2>
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
